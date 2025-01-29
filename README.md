@@ -18,11 +18,11 @@
    
 <h4>
     <a href="https://github.com/davenwoody/Nakari-Bot/">View Demo</a>
-  <span> Â· </span>
+  <span> · </span>
     <a href="https://github.com/davenwoody/Nakari-Bot/">Documentation</a>
-  <span> Â· </span>
+  <span> · </span>
     <a href="https://github.com/davenwoody/Nakari-Bot/issues/">Report Bug</a>
-  <span> Â· </span>
+  <span> · </span>
     <a href="https://github.com/davenwoody/Nakari-Bot/issues/">Request Feature</a>
   </h4>
 </div>
