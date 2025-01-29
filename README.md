@@ -41,6 +41,40 @@ Extensive Command List: The bot comes with a variety of commands that enhance it
 Open Source: Being an open-source project, Nakari Bot encourages community contributions. Users can fork the repository, suggest features, and report issues, fostering a collaborative environment.
 
 
+## How to install and run bot
+
+### Steps to Start Nakari-Bot Using NPM
+
+1. **Clone the Repository**
+   - First, you need to clone the Nakari-Bot repository to your local machine. Use the following command:
+   ```bash
+   git clone https://github.com/davenwoody/Nakari-Bot.git
+   ```
+
+2. **Navigate to the Project Directory**
+   - After cloning is complete, navigate into the project directory:
+   ```bash
+   cd Nakari-Bot
+   ```
+
+3. **Install Dependencies**
+   - Run the following command to install all the required dependencies:
+   ```bash
+   npm install
+   ```
+
+4. **Start the Bot**
+   - Once all dependencies are installed, you can start the bot with the command:
+   ```bash
+   npm start
+   ```
+
+### Additional Notes
+
+- Make sure you have Node.js and npm installed on your system.
+
+If you have any further questions or need additional assistance, feel free to ask!
+
 
 
 
