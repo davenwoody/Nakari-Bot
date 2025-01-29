@@ -1,6 +1,6 @@
 <div align="center">
 
-  <img src="data/image/thumb.png" alt="logo" width="200" height="auto" />
+  <img src="data/image/thumb.jpg" alt="logo" width="200" height="auto" />
   <h1>Nakari Multidevice Bot WhatsApps</h1>
   
   <p>
