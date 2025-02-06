@@ -1,5 +1,5 @@
 {
-  "name": "Takeshi-MD",
+  "name": "Nakari-MD",
   "version": "1.0.0",
   "description": "Automated whatsapp md bot created using nodejs and baileys lib",
   "main": "index.js",
@@ -18,7 +18,7 @@
     "bot-md",
     "multi-device"
   ],
-  "author": "YASSxOFC",
+  "author": "DraxVen",
   "license": "ISC",
   "dependencies": {
   "cfonts": "^3.3.0",
